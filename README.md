@@ -62,9 +62,8 @@ app/src/main/java/com/actaks/aplayer/
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. (Or
-specify your preferred license).
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Act-Aks
